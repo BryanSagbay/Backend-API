@@ -51,13 +51,13 @@ $ git clone https://github.com/BryanSagbay/Backend-API.git
 La API proporciona las siguientes operaciones sobre entidades de jugadores:
 ```bash
 Obtener todos los jugadores:
-												GET /api/jugadores
+		GET /api/jugadores
 Guardar un nuevo jugador: 
-												POST /api/guardarjugador
+		POST /api/guardarjugador
 Actualizar un jugador existente:
-												PUT /api/actualizarjugador
+		PUT /api/actualizarjugador
 Eliminar un jugador por ID: 
-												DELETE /api/eliminarjugador/{id}
+		DELETE /api/eliminarjugador/{id}
 ```
 
 <br>
