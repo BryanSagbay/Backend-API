@@ -14,6 +14,7 @@ Esta API proporciona endpoints para la gestión de jugadores en un sistema. Perm
 <hr> 
 
 <br>
+
 > ### 1. Tecnologías Utilizadas 
 - Java
 - Spring Boot
