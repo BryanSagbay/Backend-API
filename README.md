@@ -4,6 +4,7 @@
 
 # Api Scouting Player 🔭 
 Esta API proporciona endpoints para la gestión de jugadores en un sistema. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre entidades de jugadores.
+Tener en cuenta que solo es un demo
 
 
 [![Langua](https://img.shields.io/badge/SpringBoot-white?logo=Spring)](https://img.shields.io/badge/SpringBoot-purple?logo=Spring) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Backend-API?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Backend-API?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Backend-API?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Backend-API?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Backend-API?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Backend-API?color=blue "Start") 
